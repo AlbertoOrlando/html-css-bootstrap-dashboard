@@ -9,3 +9,8 @@
 .form-control::placeholder {
     color: gray;
 }
+
+#gray{
+    color: gray;
+    font-size: 14px;
+}
